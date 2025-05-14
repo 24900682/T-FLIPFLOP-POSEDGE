@@ -1,3 +1,5 @@
+# NAME: ASWIN L
+# REG NO: 212224230028
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
@@ -54,8 +56,8 @@ Qbar=~Q;
 end
 endmodule
 ~~~
- Developed by:Kanigavel M 
- RegisterNumber:212224240070
+ Developed by: ASWIN L
+ RegisterNumber: 212224230028
 
 
 **RTL LOGIC FOR FLIPFLOPS**
